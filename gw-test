@@ -1,0 +1,2 @@
+169.254.0.0/16 dev wlp2s0  scope link  metric 1000 
+172.16.40.0/22 dev wlp2s0  proto kernel  scope link  src 172.16.43.69  metric 600 
